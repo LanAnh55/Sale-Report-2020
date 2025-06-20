@@ -164,7 +164,7 @@ The highest number of customers comes from Facebook (6,943 customers).
 
 -Need to optimize costs and focus on the most effective channel.
 
-###Conclusion & Suggestions for improvement Positive points:###
+# Conclusion & Suggestions for improvement Positive points:
 
 -Hanoi is the strongest market, can be promoted more.
 
@@ -223,11 +223,11 @@ The highest number of customers comes from Facebook (6,943 customers).
 
 -Other products have lower sales, can consider promotion programs to increase competitiveness.
 
-###Top 5 Best-selling Provinces/Cities -Hanoi is the area with the highest sales, followed by Ho Chi Minh City, Hai Phong, Dong Nai and Binh Duong.###
+# Top 5 Best-selling Provinces/Cities -Hanoi is the area with the highest sales, followed by Ho Chi Minh City, Hai Phong, Dong Nai and Binh Duong.
 
 -It is possible to expand the marketing campaign in provinces such as Hai Phong, Dong Nai and Binh Duong to increase orders.
 
-###Key Data Overview###
+# Key Data Overview
 -Total Orders: 5,829K (~5,829 orders).
 
 -Total Buyers: 4,671K (~4,671 Customers).
@@ -236,7 +236,7 @@ The highest number of customers comes from Facebook (6,943 customers).
 
 -Revenue is quite good, but can be optimized by upselling (selling additional products) or improving customer repurchase rate.
 
-###Conclusion & Improvement Recommendations Positive points:###
+# Conclusion & Improvement Recommendations Positive points:
 
 -High delivery success rate, COD is still the main payment method.
 
