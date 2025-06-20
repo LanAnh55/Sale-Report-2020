@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/941965bf-e626-4940-9f1d-07bb20c2d4ec)![image](https://github.com/user-attachments/assets/a9ecfd05-c08d-4a3d-9ddc-88e2f7d84a1a)# Sale-Report-2020 (Q3/2020)
+# Sale-Report-2020 (Q3/2020)
 
 **Data preprocessing**
 Clean and preprocess data using Python and SQL to ensure consistency and accuracy.
