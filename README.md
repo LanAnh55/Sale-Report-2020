@@ -223,7 +223,7 @@ The highest number of customers comes from Facebook (6,943 customers).
 
 -Other products have lower sales, can consider promotion programs to increase competitiveness.
 
-# Top 5 Best-selling Provinces/Cities -Hanoi is the area with the highest sales, followed by Ho Chi Minh City, Hai Phong, Dong Nai and Binh Duong.
+- Top 5 Best-selling Provinces/Cities -Hanoi is the area with the highest sales, followed by Ho Chi Minh City, Hai Phong, Dong Nai and Binh Duong.
 
 -It is possible to expand the marketing campaign in provinces such as Hai Phong, Dong Nai and Binh Duong to increase orders.
 
