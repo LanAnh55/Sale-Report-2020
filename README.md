@@ -132,135 +132,135 @@ The highest number of customers comes from Facebook (6,943 customers).
 
 **Customer conversion rate (% Customer CVR)**
 
--Facebook: 0.94%
+- Facebook: 0.94%
 
--Google: 0.08% (low)
+- Google: 0.08% (low)
 
--Other channels have almost no conversion rate.
+- Other channels have almost no conversion rate.
 
 **Cost per customer (CAC - Customer Acquisition Cost)**
 
--Facebook: 166,305.60 VND (reasonable).
+- Facebook: 166,305.60 VND (reasonable).
 
--Google: 1,942,315.46 VND (too high).
+- Google: 1,942,315.46 VND (too high).
 
--TikTok, Tiki, Saleshunt have high costs but low efficiency.
+- TikTok, Tiki, Saleshunt have high costs but low efficiency.
 
 **Remarks:**
 
--Facebook is the most effective channel with stable conversion rate and reasonable CAC.
+- Facebook is the most effective channel with stable conversion rate and reasonable CAC.
 
--Google has high CAC but low CVR, need to optimize campaign or reduce budget.
+- Google has high CAC but low CVR, need to optimize campaign or reduce budget.
 
--TikTok and Tiki need to review strategy or remove if ineffective.
+- TikTok and Tiki need to review strategy or remove if ineffective.
 
 **Overview of results** -Total customers: 7,496
 
--Average cost to acquire a customer (CAC): 152,254 VND
+- Average cost to acquire a customer (CAC): 152,254 VND
 
--The number of customers is relatively good.
+- The number of customers is relatively good.
 
--The CAC cost is generally stable but there is a difference between channels.
+- The CAC cost is generally stable but there is a difference between channels.
 
--Need to optimize costs and focus on the most effective channel.
+- Need to optimize costs and focus on the most effective channel.
 
 # Conclusion & Suggestions for improvement Positive points:
 
--Hanoi is the strongest market, can be promoted more.
+- Hanoi is the strongest market, can be promoted more.
 
--Facebook is the channel that brings the most customers and is the most effective.
+- Facebook is the channel that brings the most customers and is the most effective.
 
 **Problems to overcome:**
 
--Google has a very high CAC cost, need to optimize or adjust the strategy.
+- Google has a very high CAC cost, need to optimize or adjust the strategy.
 
--Many customers have not closed the order due to "Thinking more" or "Not answering the phone".
+- Many customers have not closed the order due to "Thinking more" or "Not answering the phone".
 
--Some Marketers have low performance, need to consider the cause.
+- Some Marketers have low performance, need to consider the cause.
 
 **Directions for improvement in Q4/2020:**
 
--Increase campaigns in Hanoi, test expansion in other provinces.
+- Increase campaigns in Hanoi, test expansion in other provinces.
 
--Reduce Google budget or optimize ads to reduce CAC.
+- Reduce Google budget or optimize ads to reduce CAC.
 
--Increase conversion rate by improving customer care process.
+- Increase conversion rate by improving customer care process.
 
--Focus on Facebook because this is the most effective channel.
+- Focus on Facebook because this is the most effective channel.
 
--Train low performing Marketers to improve results.
+- Train low performing Marketers to improve results.
 
 **Logistics operations**
 ![image](https://github.com/user-attachments/assets/b74a791f-9a2e-4cf0-8d40-0e4ba4d9ce00)
 
 
 **Payment method**
--COD (Cash on Delivery) accounts for 99.74%, while Bank Transfer accounts for only 0.26%.
+- COD (Cash on Delivery) accounts for 99.74%, while Bank Transfer accounts for only 0.26%.
 
--Most customers still prefer COD, showing that they want to check the goods before paying.
+- Most customers still prefer COD, showing that they want to check the goods before paying.
 
--Therefore, it is necessary to optimize the delivery process to ensure a high rate of receiving goods.
+- Therefore, it is necessary to optimize the delivery process to ensure a high rate of receiving goods.
 
--It is possible to promote the bank transfer method by applying incentives (discounts, free shipping, gifts).
+- It is possible to promote the bank transfer method by applying incentives (discounts, free shipping, gifts).
 
 **Order status distribution**
--The successful delivery rate is very high (87.72%).
+- The successful delivery rate is very high (87.72%).
 
--Only 11.8% of orders are in the "Returned Successful" status (ie returned).
+- Only 11.8% of orders are in the "Returned Successful" status (ie returned).
 
--This is a good success rate, showing an effective operation and delivery process.
+- This is a good success rate, showing an effective operation and delivery process.
 
--However, it is still necessary to find out the reasons for returns to reduce this rate (for example, due to customers changing their minds, product quality, wrong delivery, ...).
+- However, it is still necessary to find out the reasons for returns to reduce this rate (for example, due to customers changing their minds, product quality, wrong delivery, ...).
 
 **Best-selling products**
 **Top best-selling products:**
 
--SACHTEENUPKID2 (44.32%) has the highest proportion.
+- SACHTEENUPKID2 (44.32%) has the highest proportion.
 
--Followed by SACHTEENUPKID (26.91%), SACHTEENNUTEEN (14.58%), and other products have smaller proportions.
+- Followed by SACHTEENUPKID (26.91%), SACHTEENNUTEEN (14.58%), and other products have smaller proportions.
 
--The product SACHTEENUPKID2 is dominating the market, needing to focus more on promotion.
+- The product SACHTEENUPKID2 is dominating the market, needing to focus more on promotion.
 
--Other products have lower sales, can consider promotion programs to increase competitiveness.
+- Other products have lower sales, can consider promotion programs to increase competitiveness.
 
 - Top 5 Best-selling Provinces/Cities -Hanoi is the area with the highest sales, followed by Ho Chi Minh City, Hai Phong, Dong Nai and Binh Duong.
 
--It is possible to expand the marketing campaign in provinces such as Hai Phong, Dong Nai and Binh Duong to increase orders.
+- It is possible to expand the marketing campaign in provinces such as Hai Phong, Dong Nai and Binh Duong to increase orders.
 
 # Key Data Overview
--Total Orders: 5,829K (~5,829 orders).
+- Total Orders: 5,829K (~5,829 orders).
 
--Total Buyers: 4,671K (~4,671 Customers).
+- Total Buyers: 4,671K (~4,671 Customers).
 
--Total Revenue: 2 Billion VND.
+- Total Revenue: 2 Billion VND.
 
--Revenue is quite good, but can be optimized by upselling (selling additional products) or improving customer repurchase rate.
+- Revenue is quite good, but can be optimized by upselling (selling additional products) or improving customer repurchase rate.
 
 # Conclusion & Improvement Recommendations Positive points:
 
--High delivery success rate, COD is still the main payment method.
+- High delivery success rate, COD is still the main payment method.
 
--SACHTEENUPKID2 product has the strongest sales.
+- SACHTEENUPKID2 product has the strongest sales.
 
--Hanoi and Ho Chi Minh City are still the key markets.
+- Hanoi and Ho Chi Minh City are still the key markets.
 
 **Issues to improve:**
 
--The 11.8% return rate needs to be reduced by analyzing the reasons for returns.
+- The 11.8% return rate needs to be reduced by analyzing the reasons for returns.
 
--The form of transfer is too low (0.26%), so there should be a policy to encourage prepayment.
+- The form of transfer is too low (0.26%), so there should be a policy to encourage prepayment.
 
--Focus on promoting less competitive products to increase revenue.
+- Focus on promoting less competitive products to increase revenue.
 
 **Suggestions:**
 
--Improve the delivery process to reduce the rate of returned goods (possibly due to wrong goods, late delivery, ...).
+- Improve the delivery process to reduce the rate of returned goods (possibly due to wrong goods, late delivery, ...).
 
--Test incentives when customers pay by transfer (discounts, vouchers).
+- Test incentives when customers pay by transfer (discounts, vouchers).
 
--Promote slow-selling products by combining combos or discounts.
+- Promote slow-selling products by combining combos or discounts.
 
--Strengthen promotional campaigns in Hai Phong, Dong Nai, Binh Duong to expand the market.
+- Strengthen promotional campaigns in Hai Phong, Dong Nai, Binh Duong to expand the market.
 
 ---
 
