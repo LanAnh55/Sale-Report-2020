@@ -44,7 +44,7 @@ Sales.loc[(Sales['Level'] == "L8.2 - Khách đã thanh toán toàn bộ") & (Sal
 
 trangthai_values = Sales["Trạng thái"].count()
 level_values = Sales["Level"].count()
-print(f"🔢 Tổng số giá trị trong cột 'Trạng thái':{trangthai_values} và 'Level': {level_values}")
+print(f" Tổng số giá trị trong cột 'Trạng thái':{trangthai_values} và 'Level': {level_values}")
 
 print(Sales["Trạng thái"].isna().sum())
 
